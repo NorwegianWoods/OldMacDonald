@@ -1,7 +1,7 @@
 class Farm  {     
   private Animal[] aBunchOfAnimals = new Animal[3];    
   public Farm()     {       
-    aBunchOfAnimals[0] = new NamedCow("cow","moo","Elise");          
+    aBunchOfAnimals[0] = new NamedCow("cow","moo","Elsie");          
     aBunchOfAnimals[1] = new Chicken("chick","cheep","cluck");
     aBunchOfAnimals[2] = new Pig("pig","oink");    
   }     
